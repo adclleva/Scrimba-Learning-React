@@ -39,7 +39,7 @@ export default App
 //         }
 //         this.handleClick = this.handleClick.bind(this)
 //     }
-        // the setState is taking in a method that returns an object literal  
+        // the setState is taking in a method that returns an object literal
 //     handleClick() {
 //         this.setState(prevState => {
 //             return {
